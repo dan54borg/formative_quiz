@@ -4,7 +4,7 @@ This is basic a quiz that runs in terminal. You will be asked an endless stream 
 
 #### Requirements
 
-•	Python 3 (version 3.7 or higher)
+•	Python 3 (version 3.9 or higher)
 •	No additional libraries are needed — the quiz uses only Python's built-in modules
 
 #### How to Download the Quiz
