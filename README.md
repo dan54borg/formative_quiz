@@ -69,6 +69,18 @@ No third-party packages are required. The program uses only the following standa
 
 •	random — used to shuffle the order of questions each time the quiz runs
 
+### GitHub Repository
+
+The source code for this project is hosted on GitHub. The repository includes all .py files, this README, and version history.
+
+Repository URL: https://github.com/dan54borg/formative_quiz.git
+
+To clone the repository:
+
+```bash
+git clone https://github.com/dan54borg/formative_quiz.git
+```
+
 ### How to Edit Questions
 
 The only variable to edit for the questions is to increase or decrease the range of the randomly selected number.
