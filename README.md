@@ -51,7 +51,7 @@ The project is made up of the following files:
 
 The program is split into two modules to keep the code clean and easy to read.
 
-### generate_questions.py
+## generate_questions.py
 
 This file contains the questions, this uses the random library that is imported in, it then generates two random numbers from 1-15 and randomly picks whether to carry out additions, substraction or multiplication. It will then determine the answer.
 
@@ -69,7 +69,7 @@ No third-party packages are required. The program uses only the following standa
 
 •	random — used to shuffle the order of questions each time the quiz runs
 
-### GitHub Repository
+## GitHub Repository
 
 The source code for this project is hosted on GitHub. The repository includes all .py files, this README, and version history.
 
@@ -81,7 +81,7 @@ To clone the repository:
 git clone https://github.com/dan54borg/formative_quiz.git
 ```
 
-### How to Edit Questions
+## How to Edit Questions
 
 The only variable to edit for the questions is to increase or decrease the range of the randomly selected number.
 In the file generate_questions.py on line 5 and 6 (see code block below)
